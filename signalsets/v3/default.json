@@ -1,4 +1,48 @@
 { "commands": [
+{ "hdr": "70B", "fcm1": true, "dbg": true, "cmd": {"22": "18A0"}, "freq": 15,
+  "signals": [
+    {"id": "TT_TP_1", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 25.5, "div": 10, "unit": "bars" }, "name": "Tire #1 pressure"},
+    {"id": "TT_TID_1", "path": "Tires", "name": "Tire #1 position", "fmt": {"bix": 32, "len": 8, "map": {
+          "0": { "description": "Front left",  "value": "FL" },
+          "1": { "description": "Front right", "value": "FR" },
+          "2": { "description": "Rear left",   "value": "RL" },
+          "3": { "description": "Rear right",  "value": "RR" }
+        }}
+    }
+  ]},
+{ "hdr": "70B", "fcm1": true, "dbg": true, "cmd": {"22": "18A1"}, "freq": 15,
+  "signals": [
+    {"id": "TT_TP_2", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 25.5, "div": 10, "unit": "bars" }, "name": "Tire #2 pressure"},
+    {"id": "TT_TID_2", "path": "Tires", "name": "Tire #2 position", "fmt": {"bix": 32, "len": 8, "map": {
+          "0": { "description": "Front left",  "value": "FL" },
+          "1": { "description": "Front right", "value": "FR" },
+          "2": { "description": "Rear left",   "value": "RL" },
+          "3": { "description": "Rear right",  "value": "RR" }
+        }}
+    }
+  ]},
+{ "hdr": "70B", "fcm1": true, "dbg": true, "cmd": {"22": "18A2"}, "freq": 15,
+  "signals": [
+    {"id": "TT_TP_3", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 25.5, "div": 10, "unit": "bars" }, "name": "Tire #3 pressure"},
+    {"id": "TT_TID_3", "path": "Tires", "name": "Tire #3 position", "fmt": {"bix": 32, "len": 8, "map": {
+          "0": { "description": "Front left",  "value": "FL" },
+          "1": { "description": "Front right", "value": "FR" },
+          "2": { "description": "Rear left",   "value": "RL" },
+          "3": { "description": "Rear right",  "value": "RR" }
+        }}
+    }
+  ]},
+{ "hdr": "70B", "fcm1": true, "dbg": true, "cmd": {"22": "18A3"}, "freq": 15,
+  "signals": [
+    {"id": "TT_TP_4", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 25.5, "div": 10, "unit": "bars" }, "name": "Tire #4 pressure"},
+    {"id": "TT_TID_4", "path": "Tires", "name": "Tire #4 position", "fmt": {"bix": 32, "len": 8, "map": {
+          "0": { "description": "Front left",  "value": "FL" },
+          "1": { "description": "Front right", "value": "FR" },
+          "2": { "description": "Rear left",   "value": "RL" },
+          "3": { "description": "Rear right",  "value": "RR" }
+        }}
+    }
+  ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "295A"}, "freq": 5,
   "signals": [
     {"id": "TT_ODO_2", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer (alternative)", "suggestedMetric": "odometer"}
