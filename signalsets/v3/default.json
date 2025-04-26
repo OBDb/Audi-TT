@@ -43,6 +43,22 @@
         }}
     }
   ]},
+{ "hdr": "713", "dbg": true, "cmd": {"22": "1800"}, "freq": 0.25,
+  "signals": [
+    {"id": "TT_FL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Front left wheel speed"}
+  ]},
+{ "hdr": "713", "dbg": true, "cmd": {"22": "1801"}, "freq": 0.25,
+  "signals": [
+    {"id": "TT_FR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Front right wheel speed"}
+  ]},
+{ "hdr": "713", "dbg": true, "cmd": {"22": "1802"}, "freq": 0.25,
+  "signals": [
+    {"id": "TT_RL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Rear left wheel speed"}
+  ]},
+{ "hdr": "713", "dbg": true, "cmd": {"22": "1803"}, "freq": 0.25,
+  "signals": [
+    {"id": "TT_RR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Rear right wheel speed"}
+  ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "295A"}, "freq": 5,
   "signals": [
     {"id": "TT_ODO_2", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer (alternative)", "suggestedMetric": "odometer"}
