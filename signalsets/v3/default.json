@@ -59,6 +59,18 @@
   "signals": [
     {"id": "TT_RR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Rear right wheel speed"}
   ]},
+{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "1014"}, "freq": 5,
+  "signals": [
+    {"id": "TT_AAT", "path": "Climate", "fmt": { "len": 8, "max": 215, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
+  ]},
+{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "202F"}, "freq": 1,
+  "signals": [
+    {"id": "TT_EOT", "path": "Engine", "fmt": { "len": 8, "max": 197, "add": -58, "unit": "celsius" }, "name": "Engine oil temperature"}
+  ]},
+{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "2203"}, "freq": 10,
+  "signals": [
+    {"id": "IBIZA_ODO", "path": "Trips", "fmt": { "len": 24, "max": 167772150, "mul": 10, "unit": "kilometers" }, "name": "Odometer (dash)", "suggestedMetric": "odometer"}
+  ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "295A"}, "freq": 5,
   "signals": [
     {"id": "TT_ODO_2", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer (alternative)", "suggestedMetric": "odometer"}
