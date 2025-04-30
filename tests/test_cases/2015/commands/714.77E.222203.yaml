@@ -1,0 +1,79 @@
+command_id: 714.77E.222203
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 77E0662220301DAF5
+  expected_values:
+    IBIZA_ODO: 1215890
+- response: 77E0662220301DAF6
+  expected_values:
+    IBIZA_ODO: 1215900
+- response: 77E0662220301DAF7
+  expected_values:
+    IBIZA_ODO: 1215910
+- response: 77E0662220301DAF8
+  expected_values:
+    IBIZA_ODO: 1215920
+- response: 77E0662220301DAF9
+  expected_values:
+    IBIZA_ODO: 1215930
+- response: 77E0662220301DAFA
+  expected_values:
+    IBIZA_ODO: 1215940
+- response: 77E0662220301DAFB
+  expected_values:
+    IBIZA_ODO: 1215950
+- response: 77E0662220301DAFC
+  expected_values:
+    IBIZA_ODO: 1215960
+- response: 77E0662220301DBC4
+  expected_values:
+    IBIZA_ODO: 1217960
+- response: 77E0662220301DBC5
+  expected_values:
+    IBIZA_ODO: 1217970
+- response: 77E0662220301DBC6
+  expected_values:
+    IBIZA_ODO: 1217980
+- response: 77E0662220301DBC7
+  expected_values:
+    IBIZA_ODO: 1217990
+- response: 77E0662220301DBC8
+  expected_values:
+    IBIZA_ODO: 1218000
+- response: 77E0662220301DBC9
+  expected_values:
+    IBIZA_ODO: 1218010
+- response: 77E0662220301DBCA
+  expected_values:
+    IBIZA_ODO: 1218020
+- response: 77E0662220301DBD7
+  expected_values:
+    IBIZA_ODO: 1218150
+- response: 77E0662220301DBD8
+  expected_values:
+    IBIZA_ODO: 1218160
+- response: 77E0662220301DBD9
+  expected_values:
+    IBIZA_ODO: 1218170
+- response: 77E0662220301DBDA
+  expected_values:
+    IBIZA_ODO: 1218180
+- response: 77E0662220301DBDB
+  expected_values:
+    IBIZA_ODO: 1218190
+- response: 77E0662220301DBDC
+  expected_values:
+    IBIZA_ODO: 1218200
+- response: 77E0662220301DBDD
+  expected_values:
+    IBIZA_ODO: 1218210
+- response: 77E0662220301DBE8
+  expected_values:
+    IBIZA_ODO: 1218320
+- response: 77E0662220301DBE9
+  expected_values:
+    IBIZA_ODO: 1218330
+- response: 77E0662220301DBEA
+  expected_values:
+    IBIZA_ODO: 1218340

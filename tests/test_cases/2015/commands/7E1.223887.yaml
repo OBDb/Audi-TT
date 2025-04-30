@@ -1,0 +1,115 @@
+command_id: 7E1.223887
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E9076238872D751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120964.5
+- response: 7E9076238872F751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120964.7
+- response: '7E90762388733751200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120965.1
+- response: '7E90762388737751200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120965.5
+- response: 7E9076238873F751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120966.3
+- response: '7E90762388746751200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120967
+- response: 7E9076238874E751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120967.8
+- response: '7E90762388755751200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120968.5
+- response: 7E9076238875E751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120969.4
+- response: '7E90762388765751200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120970.1
+- response: 7E9076238876D6C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120740.5
+- response: 7E907623887746C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120741.2
+- response: '7E90762388776741200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120946.2
+- response: '7E90762388778741200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120946.4
+- response: 7E9076238877B741200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120946.7
+- response: 7E9076238877C6C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120742
+- response: 7E9076238877E741200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120947
+- response: '7E90762388783741200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120947.5
+- response: 7E907623887856C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120742.9
+- response: 7E9076238878A741200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120948.2
+- response: 7E9076238878C6C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120743.6
+- response: 7E907623887926C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120744.2
+- response: '7E90762388792741200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120949
+- response: 7E907623887986C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120744.8
+- response: 7E9076238879A741200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120949.8
+- response: 7E907623887A06C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120745.6
+- response: 7E907623887A0741200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120950.4
+- response: 7E907623887A8741200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120951.2
+- response: 7E907623887AA6C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120746.6
+- response: 7E907623887B16C1200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120747.3
+- response: 7E907623887DB751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120981.9
+- response: 7E907623887DE751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120982.2
+- response: 7E907623887E0751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120982.4
+- response: 7E907623887E4751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120982.8
+- response: 7E907623887E6751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120983
+- response: 7E907623887E9751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120983.3
+- response: 7E907623887EA751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120983.4

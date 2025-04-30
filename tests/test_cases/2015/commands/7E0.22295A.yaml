@@ -212,3 +212,99 @@ test_cases:
 - response: 7E80662295A01DA75
   expected_values:
     TT_ODO_2: 121461
+- response: 7E80662295A01DA85
+  expected_values:
+    TT_ODO_2: 121477
+- response: 7E80662295A01DA86
+  expected_values:
+    TT_ODO_2: 121478
+- response: 7E80662295A01DA87
+  expected_values:
+    TT_ODO_2: 121479
+- response: 7E80662295A01DA88
+  expected_values:
+    TT_ODO_2: 121480
+- response: 7E80662295A01DA89
+  expected_values:
+    TT_ODO_2: 121481
+- response: 7E80662295A01DA96
+  expected_values:
+    TT_ODO_2: 121494
+- response: 7E80662295A01DA97
+  expected_values:
+    TT_ODO_2: 121495
+- response: 7E80662295A01DA98
+  expected_values:
+    TT_ODO_2: 121496
+- response: 7E80662295A01DAF5
+  expected_values:
+    TT_ODO_2: 121589
+- response: 7E80662295A01DAF6
+  expected_values:
+    TT_ODO_2: 121590
+- response: 7E80662295A01DAF7
+  expected_values:
+    TT_ODO_2: 121591
+- response: 7E80662295A01DAF8
+  expected_values:
+    TT_ODO_2: 121592
+- response: 7E80662295A01DAF9
+  expected_values:
+    TT_ODO_2: 121593
+- response: 7E80662295A01DAFA
+  expected_values:
+    TT_ODO_2: 121594
+- response: 7E80662295A01DAFB
+  expected_values:
+    TT_ODO_2: 121595
+- response: 7E80662295A01DAFC
+  expected_values:
+    TT_ODO_2: 121596
+- response: 7E80662295A01DBC4
+  expected_values:
+    TT_ODO_2: 121796
+- response: 7E80662295A01DBC5
+  expected_values:
+    TT_ODO_2: 121797
+- response: 7E80662295A01DBC6
+  expected_values:
+    TT_ODO_2: 121798
+- response: 7E80662295A01DBC7
+  expected_values:
+    TT_ODO_2: 121799
+- response: 7E80662295A01DBC8
+  expected_values:
+    TT_ODO_2: 121800
+- response: 7E80662295A01DBC9
+  expected_values:
+    TT_ODO_2: 121801
+- response: 7E80662295A01DBD7
+  expected_values:
+    TT_ODO_2: 121815
+- response: 7E80662295A01DBD8
+  expected_values:
+    TT_ODO_2: 121816
+- response: 7E80662295A01DBD9
+  expected_values:
+    TT_ODO_2: 121817
+- response: 7E80662295A01DBDA
+  expected_values:
+    TT_ODO_2: 121818
+- response: 7E80662295A01DBDB
+  expected_values:
+    TT_ODO_2: 121819
+- response: 7E80662295A01DBDC
+  expected_values:
+    TT_ODO_2: 121820
+- response: 7E80662295A01DBDD
+  expected_values:
+    TT_ODO_2: 121821
+- response: 7E80662295A01DBE8
+  expected_values:
+    TT_ODO_2: 121832
+- response: 7E80662295A01DBE9
+  expected_values:
+    TT_ODO_2: 121833
+- response: 7E80662295A01DBEA
+  expected_values:
+    TT_ODO_2: 121834
