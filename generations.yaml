@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (8N)"
+    start_year: 1998
+    end_year: 2006
+    description: "The original Audi TT was a design icon with its distinctive, Bauhaus-inspired styling featuring a rounded, geometric shape that stood out in the automotive landscape. Available as both a 2+2 coupe and a two-seat roadster, it was built on the Volkswagen Group A4 (PQ34) platform. Engine options included 1.8L turbocharged four-cylinder units with various power outputs, topped by the 225 HP quattro variant. A 3.2L VR6 engine was added later in the production run. The TT's interior was equally distinctive with aluminum accents and minimalist design. Early models received a rear spoiler and suspension modifications following high-speed stability concerns. The first-generation TT established the model as a design-focused sports car that emphasized style alongside performance."
+
+  - name: "Second Generation (8J)"
+    start_year: 2006
+    end_year: 2014
+    description: "The second-generation TT evolved the design language with sharper lines while maintaining the distinctive overall shape. Built on the Volkswagen Group A5 (PQ35) platform, it featured a steel and aluminum hybrid construction for reduced weight. Engine options expanded to include 1.8L and 2.0L TFSI petrol and 2.0L TDI diesel units, with the TTS featuring a high-output 2.0L TFSI producing 272 HP and the TT RS offering a turbocharged 2.5L five-cylinder with up to 360 HP in Plus form. The interior continued the driver-focused design with high-quality materials and the introduction of Audi's MMI infotainment system. The second-generation TT offered enhanced performance and technology while remaining true to the design-focused ethos of the original."
+
+  - name: "Third Generation (8S)"
+    start_year: 2014
+    end_year: 2023
+    description: "The final generation of the Audi TT refined the design further with a more angular and aggressive appearance. Built on the Volkswagen Group MQB platform, it featured more aluminum content for further weight reduction. Engine options continued with various 2.0L TFSI petrol units for standard models, while the TTS produced 306 HP and the TT RS delivered 394-400 HP from its award-winning 2.5L five-cylinder turbo. The interior saw a revolutionary change with the introduction of the Virtual Cockpit, which eliminated the central display in favor of a fully digital instrument cluster combining all infotainment and navigation functions. This generation offered the most advanced technology and highest performance of the TT lineage while maintaining the model's focus on design and driving enjoyment. Production ended in 2023 as Audi planned to shift focus to electric vehicles, marking the end of a distinctive model that had been influential in automotive design since its introduction."
