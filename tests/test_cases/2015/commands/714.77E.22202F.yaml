@@ -5,6 +5,12 @@ test_cases:
 - response: 77E0462202F4A
   expected_values:
     TT_EOT: 16
+- response: 77E0462202F4B
+  expected_values:
+    TT_EOT: 17
+- response: 77E0462202F4C
+  expected_values:
+    TT_EOT: 18
 - response: 77E0462202F4D
   expected_values:
     TT_EOT: 19
@@ -14,6 +20,9 @@ test_cases:
 - response: 77E0462202F4F
   expected_values:
     TT_EOT: 21
+- response: 77E0462202F50
+  expected_values:
+    TT_EOT: 22
 - response: 77E0462202F51
   expected_values:
     TT_EOT: 23
@@ -26,9 +35,15 @@ test_cases:
 - response: 77E0462202F55
   expected_values:
     TT_EOT: 27
+- response: 77E0462202F56
+  expected_values:
+    TT_EOT: 28
 - response: 77E0462202F57
   expected_values:
     TT_EOT: 29
+- response: 77E0462202F5A
+  expected_values:
+    TT_EOT: 32
 - response: 77E0462202F5C
   expected_values:
     TT_EOT: 34
@@ -38,18 +53,33 @@ test_cases:
 - response: 77E0462202F60
   expected_values:
     TT_EOT: 38
+- response: 77E0462202F61
+  expected_values:
+    TT_EOT: 39
 - response: 77E0462202F66
   expected_values:
     TT_EOT: 44
+- response: 77E0462202F67
+  expected_values:
+    TT_EOT: 45
 - response: 77E0462202F69
   expected_values:
     TT_EOT: 47
+- response: 77E0462202F6A
+  expected_values:
+    TT_EOT: 48
+- response: 77E0462202F6B
+  expected_values:
+    TT_EOT: 49
 - response: 77E0462202F6D
   expected_values:
     TT_EOT: 51
 - response: 77E0462202F70
   expected_values:
     TT_EOT: 54
+- response: 77E0462202F72
+  expected_values:
+    TT_EOT: 56
 - response: 77E0462202F73
   expected_values:
     TT_EOT: 57
@@ -68,21 +98,57 @@ test_cases:
 - response: 77E0462202F7B
   expected_values:
     TT_EOT: 65
+- response: 77E0462202F7C
+  expected_values:
+    TT_EOT: 66
+- response: 77E0462202F7F
+  expected_values:
+    TT_EOT: 69
 - response: 77E0462202F80
   expected_values:
     TT_EOT: 70
+- response: 77E0462202F82
+  expected_values:
+    TT_EOT: 72
+- response: 77E0462202F83
+  expected_values:
+    TT_EOT: 73
 - response: 77E0462202F84
   expected_values:
     TT_EOT: 74
+- response: 77E0462202F85
+  expected_values:
+    TT_EOT: 75
+- response: 77E0462202F86
+  expected_values:
+    TT_EOT: 76
+- response: 77E0462202F87
+  expected_values:
+    TT_EOT: 77
+- response: 77E0462202F88
+  expected_values:
+    TT_EOT: 78
 - response: 77E0462202F89
   expected_values:
     TT_EOT: 79
 - response: 77E0462202F8A
   expected_values:
     TT_EOT: 80
+- response: 77E0462202F8B
+  expected_values:
+    TT_EOT: 81
+- response: 77E0462202F8C
+  expected_values:
+    TT_EOT: 82
 - response: 77E0462202F8D
   expected_values:
     TT_EOT: 83
+- response: 77E0462202F8E
+  expected_values:
+    TT_EOT: 84
+- response: 77E0462202F8F
+  expected_values:
+    TT_EOT: 85
 - response: 77E0462202F91
   expected_values:
     TT_EOT: 87

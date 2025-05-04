@@ -2,6 +2,12 @@ command_id: 7E1.223887
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: '7E90762388708761200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120986.4
+- response: '7E90762388711761200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 120987.3
 - response: 7E9076238872D751200
   expected_values:
     TT_ODO_TCM_2_HD: 120964.5
@@ -17,12 +23,33 @@ test_cases:
 - response: 7E9076238873F751200
   expected_values:
     TT_ODO_TCM_2_HD: 120966.3
+- response: 7E9076238873F781200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121043.1
+- response: '7E90762388743781200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 121043.5
 - response: '7E90762388746751200'
   expected_values:
     TT_ODO_TCM_2_HD: 120967
+- response: '7E90762388746781200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 121043.8
+- response: 7E9076238874B781200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121044.3
 - response: 7E9076238874E751200
   expected_values:
     TT_ODO_TCM_2_HD: 120967.8
+- response: 7E9076238874E781200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121044.6
+- response: '7E90762388751781200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 121044.9
+- response: '7E90762388753781200'
+  expected_values:
+    TT_ODO_TCM_2_HD: 121045.1
 - response: '7E90762388755751200'
   expected_values:
     TT_ODO_TCM_2_HD: 120968.5
@@ -77,24 +104,78 @@ test_cases:
 - response: 7E9076238879A741200
   expected_values:
     TT_ODO_TCM_2_HD: 120949.8
+- response: 7E9076238879E771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121027
 - response: 7E907623887A06C1200
   expected_values:
     TT_ODO_TCM_2_HD: 120745.6
 - response: 7E907623887A0741200
   expected_values:
     TT_ODO_TCM_2_HD: 120950.4
+- response: 7E907623887A0771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121027.2
+- response: 7E907623887A1771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121027.3
+- response: 7E907623887A3771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121027.5
+- response: 7E907623887A7771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121027.9
 - response: 7E907623887A8741200
   expected_values:
     TT_ODO_TCM_2_HD: 120951.2
 - response: 7E907623887AA6C1200
   expected_values:
     TT_ODO_TCM_2_HD: 120746.6
+- response: 7E907623887AC771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121028.4
+- response: 7E907623887B0771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121028.8
 - response: 7E907623887B16C1200
   expected_values:
     TT_ODO_TCM_2_HD: 120747.3
+- response: 7E907623887B5771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121029.3
+- response: 7E907623887BC761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121004.4
+- response: 7E907623887BD771200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121030.1
+- response: 7E907623887BF761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121004.7
+- response: 7E907623887C5761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121005.3
+- response: 7E907623887CC761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121006
+- response: 7E907623887CF761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121006.3
+- response: 7E907623887D4761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121006.8
+- response: 7E907623887D6761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121007
+- response: 7E907623887D8761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121007.2
 - response: 7E907623887DB751200
   expected_values:
     TT_ODO_TCM_2_HD: 120981.9
+- response: 7E907623887DC761200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121007.6
 - response: 7E907623887DE751200
   expected_values:
     TT_ODO_TCM_2_HD: 120982.2
@@ -113,3 +194,27 @@ test_cases:
 - response: 7E907623887EA751200
   expected_values:
     TT_ODO_TCM_2_HD: 120983.4
+- response: 7E907623887EB751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120983.5
+- response: 7E907623887ED751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120983.7
+- response: 7E907623887EF751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120983.9
+- response: 7E907623887F2751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120984.2
+- response: 7E907623887F5751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120984.5
+- response: 7E907623887F6751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120984.6
+- response: 7E907623887FA751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120985
+- response: 7E907623887FF751200
+  expected_values:
+    TT_ODO_TCM_2_HD: 120985.5
