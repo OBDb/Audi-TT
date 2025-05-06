@@ -2,6 +2,18 @@ command_id: 714.77E.22202F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 77E0462202F43
+  expected_values:
+    TT_EOT: 9
+- response: 77E0462202F45
+  expected_values:
+    TT_EOT: 11
+- response: 77E0462202F48
+  expected_values:
+    TT_EOT: 14
+- response: 77E0462202F49
+  expected_values:
+    TT_EOT: 15
 - response: 77E0462202F4A
   expected_values:
     TT_EOT: 16
@@ -44,6 +56,9 @@ test_cases:
 - response: 77E0462202F5A
   expected_values:
     TT_EOT: 32
+- response: 77E0462202F5B
+  expected_values:
+    TT_EOT: 33
 - response: 77E0462202F5C
   expected_values:
     TT_EOT: 34
@@ -56,6 +71,9 @@ test_cases:
 - response: 77E0462202F61
   expected_values:
     TT_EOT: 39
+- response: 77E0462202F62
+  expected_values:
+    TT_EOT: 40
 - response: 77E0462202F66
   expected_values:
     TT_EOT: 44
@@ -71,12 +89,18 @@ test_cases:
 - response: 77E0462202F6B
   expected_values:
     TT_EOT: 49
+- response: 77E0462202F6C
+  expected_values:
+    TT_EOT: 50
 - response: 77E0462202F6D
   expected_values:
     TT_EOT: 51
 - response: 77E0462202F70
   expected_values:
     TT_EOT: 54
+- response: 77E0462202F71
+  expected_values:
+    TT_EOT: 55
 - response: 77E0462202F72
   expected_values:
     TT_EOT: 56
@@ -101,6 +125,9 @@ test_cases:
 - response: 77E0462202F7C
   expected_values:
     TT_EOT: 66
+- response: 77E0462202F7E
+  expected_values:
+    TT_EOT: 68
 - response: 77E0462202F7F
   expected_values:
     TT_EOT: 69
@@ -155,6 +182,18 @@ test_cases:
 - response: 77E0462202F92
   expected_values:
     TT_EOT: 88
+- response: 77E0462202F93
+  expected_values:
+    TT_EOT: 89
+- response: 77E0462202F94
+  expected_values:
+    TT_EOT: 90
+- response: 77E0462202F95
+  expected_values:
+    TT_EOT: 91
+- response: 77E0462202F96
+  expected_values:
+    TT_EOT: 92
 - response: 77E0462202F99
   expected_values:
     TT_EOT: 95
