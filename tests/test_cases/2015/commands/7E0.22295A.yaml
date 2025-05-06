@@ -353,3 +353,60 @@ test_cases:
 - response: 7E80662295A01DC28
   expected_values:
     TT_ODO_2: 121896
+- response: 7E80662295A01DC72
+  expected_values:
+    TT_ODO_2: 121970
+- response: 7E80662295A01DC73
+  expected_values:
+    TT_ODO_2: 121971
+- response: 7E80662295A01DC74
+  expected_values:
+    TT_ODO_2: 121972
+- response: 7E80662295A01DC75
+  expected_values:
+    TT_ODO_2: 121973
+- response: 7E80662295A01DC76
+  expected_values:
+    TT_ODO_2: 121974
+- response: 7E80662295A01DC77
+  expected_values:
+    TT_ODO_2: 121975
+- response: 7E80662295A01DC82
+  expected_values:
+    TT_ODO_2: 121986
+- response: 7E80662295A01DC83
+  expected_values:
+    TT_ODO_2: 121987
+- response: 7E80662295A01DC84
+  expected_values:
+    TT_ODO_2: 121988
+- response: 7E80662295A01DC85
+  expected_values:
+    TT_ODO_2: 121989
+- response: 7E80662295A01DC86
+  expected_values:
+    TT_ODO_2: 121990
+- response: 7E80662295A01DC87
+  expected_values:
+    TT_ODO_2: 121991
+- response: 7E80662295A01DC95
+  expected_values:
+    TT_ODO_2: 122005
+- response: 7E80662295A01DC96
+  expected_values:
+    TT_ODO_2: 122006
+- response: 7E80662295A01DC97
+  expected_values:
+    TT_ODO_2: 122007
+- response: 7E80662295A01DC98
+  expected_values:
+    TT_ODO_2: 122008
+- response: 7E80662295A01DC99
+  expected_values:
+    TT_ODO_2: 122009
+- response: 7E80662295A01DC9A
+  expected_values:
+    TT_ODO_2: 122010
+- response: 7E80662295A01DC9B
+  expected_values:
+    TT_ODO_2: 122011
