@@ -2,15 +2,15 @@ command_id: 7E1.223887
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '7E90762388708761200'
+- response: 7E907623887027E1200
   expected_values:
-    TT_ODO_TCM_2_HD: 120986.4
+    TT_ODO_TCM_2_HD: 121190.6
+- response: 7E9076238873B801200
+  expected_values:
+    TT_ODO_TCM_2_HD: 121247.5
 - response: 7E9076238876D6C1200
   expected_values:
     TT_ODO_TCM_2_HD: 120740.5
-- response: 7E9076238878C7C1200
-  expected_values:
-    TT_ODO_TCM_2_HD: 121153.2
 - response: 7E907623887FF751200
   expected_values:
     TT_ODO_TCM_2_HD: 120985.5
