@@ -11,3 +11,6 @@ test_cases:
 - response: 7E80662295A01DC00
   expected_values:
     TT_ODO_2: 121856
+- response: 7E80662295A01DD0B
+  expected_values:
+    TT_ODO_2: 122123

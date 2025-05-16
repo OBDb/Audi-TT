@@ -51,17 +51,17 @@ supported_commands_by_ecu:
   - 0149:APP_D
 unsupported_commands_by_ecu:
   70B:
-  - 70B.2218A0
-  - 70B.2218A1
-  - 70B.2218A2
-  - 70B.2218A3
+  - 70B.2218A0:TT_TID_1,TT_TP_1
+  - 70B.2218A1:TT_TID_2,TT_TP_2
+  - 70B.2218A2:TT_TID_3,TT_TP_3
+  - 70B.2218A3:TT_TID_4,TT_TP_4
   710:
   - 710.222A0A
   713:
-  - '713.221800'
-  - '713.221801'
-  - '713.221802'
-  - '713.221803'
+  - 713.221800:TT_FL_VSS
+  - 713.221801:TT_FR_VSS
+  - 713.221802:TT_RL_VSS
+  - 713.221803:TT_RR_VSS
   714:
   - 714.22202F
   - '714.222203'
