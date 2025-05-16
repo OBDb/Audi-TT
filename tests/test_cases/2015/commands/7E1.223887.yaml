@@ -5,9 +5,9 @@ test_cases:
 - response: 7E907623887027E1200
   expected_values:
     TT_ODO_TCM_2_HD: 121190.6
-- response: 7E9076238873B801200
+- response: '7E90762388702841200'
   expected_values:
-    TT_ODO_TCM_2_HD: 121247.5
+    TT_ODO_TCM_2_HD: 121344.2
 - response: 7E9076238876D6C1200
   expected_values:
     TT_ODO_TCM_2_HD: 120740.5
