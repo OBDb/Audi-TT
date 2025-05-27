@@ -1,6 +1,4 @@
 model_year: 2015
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 supported_commands_by_ecu:
   7E0:
   - 0101:ACRF_RDY,ACRF_SUP,AIR_RDY,AIR_SUP,CAT_RDY,CAT_SUP,CCM_RDY,CCM_SUP,CIM_SUP,DTC_CNT,EGR_RDY,EGR_SUP,EVAP_RDY,EVAP_SUP,FUEL_RDY,FUEL_SUP,HCAT_RDY,HCAT_SUP,HTR_RDY,HTR_SUP,MIL,MIS_RDY,MIS_SUP,O2S_RDY,O2S_SUP
@@ -51,10 +49,10 @@ supported_commands_by_ecu:
   - 0149:APP_D
 unsupported_commands_by_ecu:
   70B:
-  - 70B.2218A0:TT_TID_1,TT_TP_1
-  - 70B.2218A1:TT_TID_2,TT_TP_2
-  - 70B.2218A2:TT_TID_3,TT_TP_3
-  - 70B.2218A3:TT_TID_4,TT_TP_4
+  - 70B.2218A0|fc=1:TT_TID_1,TT_TP_1
+  - 70B.2218A1|fc=1:TT_TID_2,TT_TP_2
+  - 70B.2218A2|fc=1:TT_TID_3,TT_TP_3
+  - 70B.2218A3|fc=1:TT_TID_4,TT_TP_4
   710:
   - 710.222A0A
   713:
@@ -63,8 +61,6 @@ unsupported_commands_by_ecu:
   - 713.221802:TT_RL_VSS
   - 713.221803:TT_RR_VSS
   714:
-  - 714.22202F
-  - '714.222203'
   - '714.222294'
   - 714.22229A
   - 714.2222B0
@@ -87,10 +83,10 @@ unsupported_commands_by_ecu:
   - 7E1.220303
   - 7E1.220304
   - 7E1.220305
-  - 7E1.22101A
+  - 7E1.22101A:TT_ODO_TCM_2
   - 7E1.22210F
   - 7E1.222B1B
   - 7E1.222B1C
   - 7E1.222B1D
   - 7E1.222B1E
-  - 7E1.223841
+  - 7E1.223841:TT_ODO_TCM_1
