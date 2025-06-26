@@ -1,5 +1,5 @@
 command_id: 714.77E.222203
 test_cases:
 - expected_values:
-    IBIZA_ODO: 847100
-  response: 77E06622203014AE6
+    IBIZA_ODO: 933590
+  response: 77E06622203016CAF
