@@ -1,5 +1,5 @@
 command_id: 7E0.22295A
 test_cases:
 - expected_values:
-    TT_ODO_2: 84710
-  response: 7E80662295A014AE6
+    TT_ODO_2: 93359
+  response: 7E80662295A016CAF

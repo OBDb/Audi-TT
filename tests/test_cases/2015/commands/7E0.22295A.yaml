@@ -1,14 +1,14 @@
 command_id: 7E0.22295A
 test_cases:
-- response: 7E80662295A01D0BD
-  expected_values:
+- expected_values:
     TT_ODO_2: 118973
-- response: 7E80662295A01DBFF
-  expected_values:
+  response: 7E80662295A01D0BD
+- expected_values:
     TT_ODO_2: 121855
-- response: 7E80662295A01DC00
-  expected_values:
+  response: 7E80662295A01DBFF
+- expected_values:
     TT_ODO_2: 121856
-- response: 7E80662295A01DD0B
-  expected_values:
-    TT_ODO_2: 122123
+  response: 7E80662295A01DC00
+- expected_values:
+    TT_ODO_2: 123165
+  response: 7E80662295A01E11D
