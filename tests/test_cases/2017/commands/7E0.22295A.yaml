@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     TT_ODO_2: 93359
   response: 7E80662295A016CAF
+- expected_values:
+    TT_ODO_2: 93975
+  response: 7E80662295A016F17
+- expected_values:
+    TT_ODO_2: 95548
+  response: 7E80662295A01753C
+- expected_values:
+    TT_ODO_2: 95731
+  response: 7E80662295A0175F3

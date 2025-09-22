@@ -1,5 +1,8 @@
 command_id: 714.77E.22202F
 test_cases:
 - expected_values:
-    TT_EOT: 59
-  response: 77E0462202F75
+    TT_EOT: 24
+  response: 77E0462202F52
+- expected_values:
+    TT_EOT: 102
+  response: 77E0462202FA0
