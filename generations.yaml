@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_TT"
+
 generations:
   - name: "First Generation (8N)"
     start_year: 1998
@@ -11,5 +14,10 @@ generations:
 
   - name: "Third Generation (8S)"
     start_year: 2014
+    end_year: 2018
+    description: "The third generation of the Audi TT refined the design further with a more angular and aggressive appearance. Built on the Volkswagen Group MQB platform, it featured more aluminum content for further weight reduction. Engine options included various 2.0L TFSI petrol units for standard models, while the TTS produced 306 HP and the TT RS delivered 394 HP from its award-winning 2.5L five-cylinder turbo. The interior saw a revolutionary change with the introduction of the Virtual Cockpit, which eliminated the central display in favor of a fully digital instrument cluster combining all infotainment and navigation functions. This generation offered advanced technology and strong performance while maintaining the model's focus on design and driving enjoyment."
+
+  - name: "Third Generation (8S) Facelift"
+    start_year: 2019
     end_year: 2023
-    description: "The final generation of the Audi TT refined the design further with a more angular and aggressive appearance. Built on the Volkswagen Group MQB platform, it featured more aluminum content for further weight reduction. Engine options continued with various 2.0L TFSI petrol units for standard models, while the TTS produced 306 HP and the TT RS delivered 394-400 HP from its award-winning 2.5L five-cylinder turbo. The interior saw a revolutionary change with the introduction of the Virtual Cockpit, which eliminated the central display in favor of a fully digital instrument cluster combining all infotainment and navigation functions. This generation offered the most advanced technology and highest performance of the TT lineage while maintaining the model's focus on design and driving enjoyment. Production ended in 2023 as Audi planned to shift focus to electric vehicles, marking the end of a distinctive model that had been influential in automotive design since its introduction."
+    description: "The 2019 facelift brought significant updates to the third generation TT. Engine specifications were revised with the introduction of the TT 40 (145 kW/197 PS) and TT 45 (180 kW/245 PS) nomenclature replacing previous designations. The TTS received updated specifications with 225 kW (306 PS) and 400 Nm of torque from 2019-2021, increased to 235 kW (320 PS) from 2021 onwards. The TT RS maintained its 2.5L five-cylinder turbocharged engine with output increased to 294 kW (400 PS) and 480 Nm of torque. Visual updates included redesigned headlights and exterior styling changes. Production continued in both coupé and roadster forms until November 2023 as Audi discontinued the model to focus on electric vehicles."
