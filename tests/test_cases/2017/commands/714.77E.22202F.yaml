@@ -4,5 +4,5 @@ test_cases:
     TT_EOT: 24
   response: 77E0462202F52
 - expected_values:
-    TT_EOT: 102
-  response: 77E0462202FA0
+    TT_EOT: 103
+  response: 77E0462202FA1
