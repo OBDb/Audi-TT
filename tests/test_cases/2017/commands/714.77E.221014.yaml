@@ -1,8 +1,8 @@
 command_id: 714.77E.221014
 test_cases:
 - expected_values:
-    TT_AAT: 90
+    TT_AAT: 20
   response: 77E046210148C
 - expected_values:
-    TT_AAT: 115
+    TT_AAT: 32.5
   response: 77E04621014A5
