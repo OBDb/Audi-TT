@@ -1,14 +1,14 @@
 command_id: 714.77E.222203
 test_cases:
 - expected_values:
-    IBIZA_ODO: 933590
+    TT_ODO: 93359
   response: 77E06622203016CAF
 - expected_values:
-    IBIZA_ODO: 939750
+    TT_ODO: 93975
   response: 77E06622203016F17
 - expected_values:
-    IBIZA_ODO: 955480
+    TT_ODO: 95548
   response: 77E0662220301753C
 - expected_values:
-    IBIZA_ODO: 957310
+    TT_ODO: 95731
   response: 77E066222030175F3
